@@ -35,6 +35,9 @@ print(type(name))
 school = "mrfz"
 print(school)
 print(type(school))
+fruit = "apple"
+print(fruit)
+print(type(fruit))
 # 4. 布尔值
 is_student = True
 print(is_student)
