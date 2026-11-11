@@ -9,11 +9,36 @@
 # 在下面开始写（写完记得 Ctrl+S 保存，然后按练习步骤提交）：
 
 # 1. 整数
-age=30 
+age = 30
+print(age)
+print(type(age))
+year = 2026
+print(year)
+print(type(year))
+score = 88
+print(score)
+print(type(score))
 # 2. 小数
-
-
+price = 99.99
+print(price)
+print(type(price))
+average = 75.5
+print(average)
+print(type(average))
+float_num = 3.14
+print(float_num)
+print(type(float_num))
 # 3. 字符串
-
-
+name = "hmf"
+print(name)
+print(type(name))
+school = "mrfz"
+print(school)
+print(type(school))
 # 4. 布尔值
+is_student = True
+print(is_student)
+print(type(is_student))
+is_teacher = False
+print(is_teacher)
+print(type(is_teacher))
